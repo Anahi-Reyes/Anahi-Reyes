@@ -9,7 +9,7 @@
 <a  href="https://www.instagram.com/anaahi_reyes/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-5B4E77?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="anahi.gif" width="400" height="400" />
 
 <h2>About me</h2>
 <ul>
@@ -24,7 +24,7 @@
   <li>🗣️ English and Spanish</li>
   <li>👩‍🍳 Chef for fun </li>
   <li>💃 Love dancing and fashion </li>
-<ul>
+</ul>
   
 <h2>I'm currently</h2>
 <ul>
