@@ -15,7 +15,7 @@
 <ul>
   <li>👩 She/Her</li>
   <li>🗯️ 19 years</li>
-  <li>🇲🇽 Mexican</li>
+  <li>🤠 Mexican</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
     <li>HappyHacks III 2023 | HackBlue Cyber Hackathon 2023🥉 </li>
@@ -65,7 +65,7 @@
 <br/>
 
   
-  <div align="center">
+<div align="center">
 <img  alt="Anahí's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Anahi-Reyes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5B4E77&icon_color=5B4E77"  height="180"/>
 <img  alt="Anahí's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anahi-Reyes&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5B4E77&icon_color=5B4E77"  height="180"/>
 <br/>
