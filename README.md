@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Anahí 🔮 </h1>
-<h3 align='center'>Computer engineering student | Oracle Next Education Frontend Junior | Google TI Support Professional Certificate | Love learning new things 👩‍💻 </h3>
+<h3 align='center'>Computer Engineering Student | Oracle Next Education Frontend Junior | Google TI Support Professional Certificate | Love learning new things 👩‍💻 </h3>
 
 
 <p align="center">
