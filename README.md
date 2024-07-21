@@ -14,7 +14,7 @@
 <h2>About me</h2>
 <ul>
   <li>👩 She/Her</li>
-  <li>🗯️ 19 years</li>
+  <li>🗯️ 20 years</li>
   <li>🤠 Mexican</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
@@ -44,17 +44,17 @@
 <a  href="#"><img  src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Node-0D1117.svg?style=rounded-square&logo=node.js&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Figma-0D1117.svg?style=rounded-square&logo=figma&logoColor=5B4E77"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=5B4E77"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=5B4E77"></a>
 
 
   
 <h2>Programming Languages and Technologies I want to learn</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/-TypeScript-0D1117?style=rounded-square&logo=typescript&logoColor=5B4E77"></a>
-<a  href="#"><img  src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-PHP-0D1117?style=rounded-square&logo=php&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/React-0D1117.svg?style=rounded-square&logo=react&logoColor=5B4E77"></a>
-<a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=5B4E77"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Microsoft Azure-0D1117.svg?style=rounded-square&logo=microsoftazure&logoColor=5B4E77"></a>
 
 <h2>Enviroment, IDEs and Tools</h2>
