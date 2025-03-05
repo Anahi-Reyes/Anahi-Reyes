@@ -14,7 +14,7 @@
 <h2>About me</h2>
 <ul>
   <li>👩 She/Her</li>
-  <li>🗯️ 20 years</li>
+  <li>🗯️ 21 years</li>
   <li>🤠 Mexican</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
@@ -29,8 +29,6 @@
 <h2>I'm currently</h2>
 <ul>
   <li>🐧 Learning Linux</li>
-  <li>⚛️ Learning React</li>
-  <li>🐍 Learning Python</li>
 </ul>
   
 <h2>Programming Languages and Technologies I know</h2>
